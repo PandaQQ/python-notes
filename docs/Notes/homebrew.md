@@ -14,10 +14,14 @@ After installing Rosetta2 above, you can then use the Homebrew cmd and install H
 
 Once Homebrew for M1 ARM is installed use this Homebrew command to install packages: `arch -x86_64 brew install <package>`
 
-
-
 #### And the install package is as below:
 
 ```
 arch -x86_64 brew install <package>
 ```
+
+
+
+#### Reference:
+
+- https://stackoverflow.com/questions/64963370/error-cannot-install-in-homebrew-on-arm-processor-in-intel-default-prefix-usr
