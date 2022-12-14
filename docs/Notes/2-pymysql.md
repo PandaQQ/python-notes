@@ -1,4 +1,4 @@
-## 2 - PyMySQL with Django Project
+# 2 - PyMySQL with Django Project
 
 > django.core.exceptions.ImproperlyConfigured: Error loading MySQLdb module. 解决方法
 
